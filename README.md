@@ -1,6 +1,6 @@
 # Quiz App
 
-Este é um aplicativo de quiz interativo desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele exibe uma série de perguntas e respostas e calcula a pontuação final com base nas respostas corretas. O design é simples e responsivo, permitindo a fácil adaptação em diferentes dispositivos.
+Este é um aplicativo de quiz interativo desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele exibe uma série de perguntas e respostas e calcula a pontuação final com base nas respostas corretas.
 
 ## Funcionalidades
 
