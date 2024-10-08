@@ -1,6 +1,6 @@
 # Quiz App
 
-Este é um aplicativo de quiz interativo desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele exibe uma série de perguntas e respostas e calcula a pontuação final com base nas respostas corretas.
+Este é um aplicativo de quiz interativo foi desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele exibe uma série de perguntas e respostas e calcula a pontuação final com base nas respostas corretas. O tema do Quizz são séries de TV famosas.
 
 ## Funcionalidades
 
