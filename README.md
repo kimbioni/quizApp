@@ -11,9 +11,9 @@ Este é um aplicativo de quiz interativo desenvolvido com **HTML**, **CSS** e **
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Estrutura do conteúdo.
-- **CSS3**: Estilos e layout da aplicação.
-- **JavaScript (ES6+)**: Lógica do jogo e interação com o usuário.
+- **HTML**: Estrutura do conteúdo.
+- **CSS**: Estilos e layout da aplicação.
+- **JavaScript**: Lógica do jogo e interação com o usuário.
 
 ## Como Executar
 
