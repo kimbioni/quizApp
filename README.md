@@ -15,6 +15,10 @@ Este é um aplicativo de quiz interativo foi desenvolvido com **HTML**, **CSS** 
 - **CSS**: Estilos e layout da aplicação.
 - **JavaScript**: Lógica do jogo e interação com o usuário.
 
+## Aplicativo em funcionamento
+
+![Quizz App](images/Aplicativo.jpg)
+
 ## Como Executar
 
 1. Faça o download ou clone o repositório:
